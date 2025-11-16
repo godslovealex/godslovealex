@@ -21,7 +21,7 @@
 
 
 
-<h2>📜 Certifications:</h2>
+<h2>📜 Certification:</h2>
 
 - <b>Responsive Web Design Certification (freeCodeCamp)</b> 
 
