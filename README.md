@@ -35,16 +35,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Godslove | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
-[<img align="left" alt="Godslove | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Godslove | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
-
-[email]: mailto:godslovealex66@gmail.com
-[linkedin]: https://www.linkedin.com/in/godslovealexmusa
-[tiktok]: https://www.tiktok.com/@godslovealex7?_r=1&_t=ZM-91SDgjeK7aa
-
-<h2> 🤳 Connect with me:</h2>
-
 <p>
   <a href="mailto:godslovealex66@gmail.com">
     <picture>
@@ -73,7 +63,6 @@
 
 <br/><br/>
 
-<br/><br/>
 
 <!--
 **godslovealex/godslovealex** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
