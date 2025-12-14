@@ -35,31 +35,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-<p>
-  <a href="mailto:godslovealex66@gmail.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/gmail/ffffff">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/gmail/000000">
-      <img align="left" width="22px" alt="Email" src="https://cdn.simpleicons.org/gmail/000000">
-    </picture>
-  </a>
+[<img align="left" alt="Godslove | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
+[<img align="left" alt="Godslove | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Godslove | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
 
-  <a href="https://www.linkedin.com/in/godslovealexmusa">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linkedin/ffffff">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/linkedin/000000">
-      <img align="left" width="22px" alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/000000">
-    </picture>
-  </a>
-
-  <a href="https://www.tiktok.com/@godslovealex7">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/tiktok/ffffff">
-      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/tiktok/000000">
-      <img align="left" width="22px" alt="TikTok" src="https://cdn.simpleicons.org/tiktok/000000">
-    </picture>
-  </a>
-</p>
+[email]: mailto:godslovealex66@gmail.com
+[linkedin]: https://www.linkedin.com/in/godslovealexmusa
+[tiktok]: https://www.tiktok.com/@godslovealex7?_r=1&_t=ZM-91SDgjeK7aa
 
 <br/><br/>
 
